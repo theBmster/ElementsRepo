@@ -1,0 +1,6 @@
+{
+  "name": "My HTML Plugin23",
+  "description": "A custom HTML plugin element that enhances web pages with interactive features.",
+  "icon": "/components/Big-header/icon.png",
+  "main": "/components/Big-header/index.html"
+}
